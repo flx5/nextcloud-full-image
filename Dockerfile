@@ -1,6 +1,6 @@
 # Extend Nextcloud with cron + optional dependencies
 # Based on https://github.com/nextcloud/docker/blob/master/.examples/dockerfiles/full/apache/Dockerfile
-FROM nextcloud:28.0.3-apache
+FROM nextcloud:28.0.4-apache
 
 RUN set -ex; \
     \
